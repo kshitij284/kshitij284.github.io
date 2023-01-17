@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hassam Khan Wazir"
+title                    : "Kshitij Gaikwad"
 title_separator          : "-"
-name                     : &name #"Hassam Khan Wazir"
-description              : &description #"Ph.D."
-url                      : https://hassamwazir.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name #"Kshitij Gaikwad"
+description              : &description #"M.S"
+url                      : https://kshitij284.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "hassamwazir/hassamwazir.github.io"
+repository               : "kshitij284/kshitij284.github.io"
 teaser                   : "500x300.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hassam Khan Wazir"
+  name             : "Kshitij Gaikwad"
   avatar           : "profile.png"
-  bio              : "Ph.D.<br/>New York University"
+  bio              : "M.S <br/>New York University"
   location         : "New York, NY"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=hBetThYAAAAJ&hl=en"
+  googlescholar    : 
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Hassam-Wazir"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "hassam-khan-wazir-17a732bb"
+  linkedin         : "kshitij-gaikwad-90bb71216"
   orcid            : "http://orcid.org/0000-0003-4930-3259"
   pinterest        :
   soundcloud       :
